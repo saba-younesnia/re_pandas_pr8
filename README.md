@@ -1,0 +1,1 @@
+Das Programm konvertiert die Namen, Nachnamen und Durchschnittsnoten von fünf Personen aus drei Zeilen in einer Textdatei in ein Datenrahmen um und erstellt ein Diagramm basierend auf ihren Namen und Durchschnittsnoten.
